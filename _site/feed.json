@@ -1,16 +1,32 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Mark Famous",
-	"home_page_url": "https://mfamous.micro.blog/",
-	"feed_url": "https://mfamous.micro.blog/feed.json",
+	"home_page_url": "http://mark.famousfamily.com/",
+	"feed_url": "http://mark.famousfamily.com/feed.json",
 	"items": [
+		
+		{
+			"id": "http://mfamous.micro.blog/2018/03/27/moved-dns-and.html",
+	      	
+			"content_html": "<p>Moved dns and nameservers over to Hover tonight. I guess I don’t know what I’m doing because I was paying another provider for dns. Not anymore!</p>\n",
+			"date_published": "2018-03-26T22:20:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/03/26/moved-dns-and.html"
+		},
+		
+		{
+			"id": "http://mfamous.micro.blog/2018/03/26/power-lines-fixed.html",
+	      	
+			"content_html": "<p>Power lines fixed today. Inspection to follow later in the week. </p>\n",
+			"date_published": "2018-03-26T19:34:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/03/26/power-lines-fixed.html"
+		},
 		
 		{
 			"id": "http://mfamous.micro.blog/2018/03/26/playing-mexican-train.html",
 	      	
 			"content_html": "<p>Playing Mexican Train with the kids. Trying to avoid screen time. </p>\n",
 			"date_published": "2018-03-25T20:09:00-04:00",
-			"url": "https://mfamous.micro.blog/2018/03/25/playing-mexican-train.html"
+			"url": "http://mark.famousfamily.com/2018/03/25/playing-mexican-train.html"
 		},
 		
 		{
@@ -18,7 +34,7 @@
 	      	
 			"content_html": "<p>There’s been so much FB news lately so I thought I’ve give this a try. mfamous.micro.blog</p>\n",
 			"date_published": "2018-03-25T19:34:00-04:00",
-			"url": "https://mfamous.micro.blog/2018/03/25/theres-been-so.html"
+			"url": "http://mark.famousfamily.com/2018/03/25/theres-been-so.html"
 		}
 		
 	]
