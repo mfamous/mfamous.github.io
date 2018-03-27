@@ -1,10 +1,18 @@
+email: your-email@domain.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
 
 title: "Mark Famous"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/mfamous\">@mfamous on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/mfamous\">@mfamous on Micro.blog</a>."
 baseurl: ""
-url: "https://mfamous.micro.blog"
+url: "http://mark.famousfamily.com"
 markdown: "kramdown"
 username: "mfamous"
 permalink: "/:year/:month/:day/:title.html"
