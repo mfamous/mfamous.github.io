@@ -3,12 +3,11 @@ title: "Links"
 permalink: "/links/"
 layout: page
 order: 1
-date: 2018-03-25 20:51 -0400
+date: 2018-03-26 22:01 -0400
 ---
-
 ## Pages
 
-[Blogger](https://mark.famousfamily.com)
+[Blogger](https://blog.mark.famousfamily.com)
 
 [Twitter](https://twitter.com/mfamous)
 
@@ -17,7 +16,7 @@ date: 2018-03-25 20:51 -0400
 
 ## Personal
 
-[Passwords](https://mark.famousfamily.com/p/password-generator.html)
+[Passwords](https://mfamous.github.io/password.html)
 
 ## Never Used
 
