@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://mfamous.micro.blog/2018/04/05/the-hallway-guards.html",
+	      	
+			"content_html": "<p>The hallway guards get mightly cranky when you walk the hallway eating peanut M&amp;Ms out of your coat pocket. #juryduty #boredoutofmymind #waiting</p>\n",
+			"date_published": "2018-04-05T14:52:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/the-hallway-guards.html"
+		},
+		
+		{
+			"id": "http://mfamous.micro.blog/2018/04/05/reading-zeynep-tufekci.html",
+	      	
+			"content_html": "<p>Reading Zeynep Tufekci in Wired: “The most effective forms of censorship today involve meddling with trust and attention, not muzzling speech itself.” Yep! #juryduty #waitingroom</p>\n",
+			"date_published": "2018-04-05T14:21:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/reading-zeynep-tufekci.html"
+		},
+		
+		{
+			"id": "http://mfamous.micro.blog/2018/04/05/maybe-i-should.html",
+	      	
+			"content_html": "<p>Maybe I should start up a side rant about daytime TV and the inane crap being broadcast and watched by the zombie hive? #juryduty #goinginsane #waitinggame</p>\n",
+			"date_published": "2018-04-05T13:53:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/maybe-i-should.html"
+		},
+		
+		{
+			"id": "http://mfamous.micro.blog/2018/04/05/back-from-lunch.html",
+	      	
+			"content_html": "<p>Back from lunch in waiting room. TV going strong. I hate it so much. Hiding in side area. #juryduty</p>\n",
+			"date_published": "2018-04-05T13:50:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/back-from-lunch.html"
+		},
+		
+		{
 			"id": "http://mfamous.micro.blog/2018/04/05/ramen.html",
 	      	
 			"content_html": "<p>Ramen!</p>\n\n<p><img src=\"http://mark.famousfamily.com/uploads/2018/ebb114bc34.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -171,30 +203,6 @@
 			"content_html": "<p>Moved dns and nameservers over to Hover tonight. I guess I don’t know what I’m doing because I was paying another provider for dns. Not anymore!</p>\n",
 			"date_published": "2018-03-26T22:20:00-04:00",
 			"url": "http://mark.famousfamily.com/2018/03/26/moved-dns-and.html"
-		},
-		
-		{
-			"id": "http://mfamous.micro.blog/2018/03/26/power-lines-fixed.html",
-	      	
-			"content_html": "<p>Power lines fixed today. Inspection to follow later in the week.</p>\n",
-			"date_published": "2018-03-26T19:34:00-04:00",
-			"url": "http://mark.famousfamily.com/2018/03/26/power-lines-fixed.html"
-		},
-		
-		{
-			"id": "http://mfamous.micro.blog/2018/03/26/playing-mexican-train.html",
-	      	
-			"content_html": "<p>Playing Mexican Train with the kids. Trying to avoid screen time.</p>\n",
-			"date_published": "2018-03-25T20:09:00-04:00",
-			"url": "http://mark.famousfamily.com/2018/03/25/playing-mexican-train.html"
-		},
-		
-		{
-			"id": "http://mfamous.micro.blog/2018/03/25/theres-been-so.html",
-	      	
-			"content_html": "<p>There’s been so much FB news lately so I thought I’ve give this a try. mfamous.micro.blog</p>\n",
-			"date_published": "2018-03-25T19:34:00-04:00",
-			"url": "http://mark.famousfamily.com/2018/03/25/theres-been-so.html"
 		}
 		
 	]
