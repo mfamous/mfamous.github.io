@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://mfamous.micro.blog/2018/04/05/need-a-few.html",
+	      	
+			"content_html": "<p>Need a few cocktails. That was so tense!That was for a 3 week!!! civil trial. Sent home. Not gonna happen for me. So happy. Signing off! #juryduty</p>\n",
+			"date_published": "2018-04-05T16:08:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/need-a-few.html"
+		},
+		
+		{
+			"id": "http://mfamous.micro.blog/2018/04/05/oh-joy-thats.html",
+	      	
+			"content_html": "<p>Oh joy. That’s it. Out of time. Everybody go home. I’m done. I can’t believe how happy I am! #juryduty #overanddone</p>\n",
+			"date_published": "2018-04-05T16:02:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/oh-joy-thats.html"
+		},
+		
+		{
+			"id": "http://mfamous.micro.blog/2018/04/05/descending-into-other.html",
+	      	
+			"content_html": "<p>Descending into other jurors talking about how they would run this process if they were in charge. To solve is human? Or just idol banter? #juryduty #waiting</p>\n",
+			"date_published": "2018-04-05T15:58:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/descending-into-other.html"
+		},
+		
+		{
+			"id": "http://mfamous.micro.blog/2018/04/05/listening-to-other.html",
+	      	
+			"content_html": "<p>Listening to other jurors waiting around talk about waiting around is worse than waiting around. #juryduty</p>\n",
+			"date_published": "2018-04-05T15:54:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/listening-to-other.html"
+		},
+		
+		{
+			"id": "http://mfamous.micro.blog/2018/04/05/contemplating-unplugging-the.html",
+	      	
+			"content_html": "<p>Contemplating unplugging the TV. Make things happen. Solve the problem. #juryduty #waiting</p>\n",
+			"date_published": "2018-04-05T15:17:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/contemplating-unplugging-the.html"
+		},
+		
+		{
 			"id": "http://mfamous.micro.blog/2018/04/05/the-hallway-guards.html",
 	      	
 			"content_html": "<p>The hallway guards get mightly cranky when you walk the hallway eating peanut M&amp;Ms out of your coat pocket. #juryduty #boredoutofmymind #waiting</p>\n",
@@ -163,46 +203,6 @@
 			"content_html": "<p>Going to start running jury commentary. Sorry in advance. Here goes…</p>\n",
 			"date_published": "2018-04-05T08:28:00-04:00",
 			"url": "http://mark.famousfamily.com/2018/04/05/going-to-start.html"
-		},
-		
-		{
-			"id": "http://mfamous.micro.blog/2018/04/05/105004.html",
-	      	
-			"content_html": "<p>Light reading for jury duty. Wish me luck!</p>\n\n<p><img src=\"http://mark.famousfamily.com/uploads/2018/e9913027fb.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-05T06:50:00-04:00",
-			"url": "http://mark.famousfamily.com/2018/04/05/105004.html"
-		},
-		
-		{
-			"id": "http://mfamous.micro.blog/2018/04/04/this-past-sunday.html",
-	      	
-			"content_html": "<p>This past Sunday. Easter.</p>\n\n<p><img src=\"http://mark.famousfamily.com/uploads/2018/2098de1040.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-03T20:51:00-04:00",
-			"url": "http://mark.famousfamily.com/2018/04/03/this-past-sunday.html"
-		},
-		
-		{
-			"id": "http://mfamous.micro.blog/2018/03/30/hardly-working.html",
-	      	
-			"content_html": "<p>Hardly working.</p>\n\n<p><img src=\"http://mark.famousfamily.com/uploads/2018/aa69c146ea.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-30T13:46:00-04:00",
-			"url": "http://mark.famousfamily.com/2018/03/30/hardly-working.html"
-		},
-		
-		{
-			"id": "http://mfamous.micro.blog/2018/03/30/have-an-itch.html",
-	      	
-			"content_html": "<p>Have an itch to do some work in the yard today but it’s also slight damp and some rain. Maybe I should practice napping instead.</p>\n",
-			"date_published": "2018-03-30T09:16:00-04:00",
-			"url": "http://mark.famousfamily.com/2018/03/30/have-an-itch.html"
-		},
-		
-		{
-			"id": "http://mfamous.micro.blog/2018/03/27/moved-dns-and.html",
-	      	
-			"content_html": "<p>Moved dns and nameservers over to Hover tonight. I guess I don’t know what I’m doing because I was paying another provider for dns. Not anymore!</p>\n",
-			"date_published": "2018-03-26T22:20:00-04:00",
-			"url": "http://mark.famousfamily.com/2018/03/26/moved-dns-and.html"
 		}
 		
 	]
