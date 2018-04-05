@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mfamous.micro.blog/2018/04/05/some-guy-dictating.html",
+	      	
+			"content_html": "<p>Some guy dictating text messages into his phone. The best of us. “Everyone of you is qualified as anyone else in this room to serve.” - intro video. #juryduty</p>\n",
+			"date_published": "2018-04-05T09:34:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/some-guy-dictating.html"
+		},
+		
+		{
+			"id": "http://mfamous.micro.blog/2018/04/05/break-until-wish.html",
+	      	
+			"content_html": "<p>9:30. Break until 10:00. Wish there was WiFi. Back to the quiet corner. Why must the tv be on all the time. #juryduty</p>\n",
+			"date_published": "2018-04-05T09:28:00-04:00",
+			"url": "http://mark.famousfamily.com/2018/04/05/break-until-wish.html"
+		},
+		
+		{
 			"id": "http://mfamous.micro.blog/2018/04/05/jury-video-you.html",
 	      	
 			"content_html": "<p>Jury video. You can tell the creation date by the version of iOS messages on the phone showing “don’t text or blog about the case”. Defendant actor in the video was millenial hipster with beard. Hmm. #juryduty</p>\n",
