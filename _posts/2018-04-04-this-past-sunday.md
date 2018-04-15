@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-03 20:51 -0400
+date: 2018-04-03 20:51:45 -0400
 guid: http://mfamous.micro.blog/2018/04/04/this-past-sunday.html
 ---
 This past Sunday. Easter. 
