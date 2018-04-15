@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-07 14:26 -0400
+date: 2018-04-07 14:26:34 -0400
 guid: http://mfamous.micro.blog/2018/04/07/first-attempt-that.html
 ---
 First attempt. That was fun. #e1
